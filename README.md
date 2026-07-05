@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Hubert Rutkowski
 
-**DevOps & Software Engineer**
+**DevOps & Infrastructure Engineer**
 
 I am a 3rd-year Computer Science student at Poznan University of Technology. I specialize in the intersection of software development and infrastructure—building applications and designing the secure, scalable environments they run in. My background combines certified networking and systems administration with active development in backend and mobile technologies.
 
